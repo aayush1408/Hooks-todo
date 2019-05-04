@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@bit/lodash.lodash.unique-id": "^4.17.11",
+    "@bit/semantic-org.semantic-ui-react.button": "^0.86.0",
+    "@bit/semantic-org.semantic-ui-react.input": "^0.86.0",
+    "@bit/semantic-org.semantic-ui-react.internal.style-links": "^0.86.0",
+    "@bit/semantic-org.semantic-ui-react.list": "^0.86.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
